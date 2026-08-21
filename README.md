@@ -25,7 +25,7 @@ This project analyzes heart disease data using R programming. It includes data c
 -** pROC**:pROC is used to evaluate the performance of the Logistic Regression model. It generates the ROC curve and calculates the Area Under the Curve (AUC), which measures the model's ability to distinguish between patients with and without heart disease.
 
 ## Dataset
-Heart Disease UCI Dataset
+Heart Disease data set from Kaggle
 
 ## Author
 Pooja
